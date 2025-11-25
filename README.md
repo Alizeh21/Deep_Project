@@ -25,7 +25,7 @@ Each image is referenced using `image_id + ".jpg"` from the metadata file.
 
 ---
 
-## Installation
+## Installations
 
 Install dependencies:
 
